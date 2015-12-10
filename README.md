@@ -1,6 +1,6 @@
-# Online Java NLP Tools
+# Java Lemmatizer and POS Tagger
 
-Simple implementation of the Stanford POS Tagger and 
+Simple implementation of the Stanford POS Tagger and MIT Word Stemmer/Lemmatizer
 
 ## Installation
 
