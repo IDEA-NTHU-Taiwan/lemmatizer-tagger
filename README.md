@@ -9,6 +9,7 @@ Requires Java 7, Eclipse 4.5.1 (Mars), Apache Maven 4.0.0
 ## Usage
 
 java -jar lemmatizer-tagger.jar -lemmatize "Houses are quite big"
+
 java -jar lemmatizer-tagger.jar -tag "Houses are quite big"
 
 ## Contributing
